@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f935d8c-6167-4a14-ae44-86752203b9a1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myAutoScrollToSource" value="true" />
+    <option name="myAutoScrollFromSource" value="true" />
+    <option name="myElementSize" value="53" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1T0gM1YiULylhEvWvMraKC583Og" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="database" />
+      <recent name="command" />
+      <recent name="constants" />
+      <recent name="database.parametrs" />
+      <recent name="json_jackson" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="xml_dom" />
+      <recent name="command" />
+      <recent name="identifier" />
+      <recent name="jason_jackson" />
+      <recent name="constants" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JAVA\DB_BEST_TASK_5201\dmytro-bielozorov-student-project\back\src\main\java\database" />
+      <recent name="D:\JAVA\DB_BEST_TASK_5201\dmytro-bielozorov-student-project\back\src\main\java" />
+      <recent name="D:\JAVA\DB_BEST_TASK_5201\dmytro-bielozorov-student-project\back\src\main\java\models\tree" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration name="DataBaseManagerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="back" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="database.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="database" />
+      <option name="MAIN_CLASS_NAME" value="database.DataBaseManagerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataBaseManagerTest.testCreateConnectionForSQLException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="back" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="database.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="database" />
+      <option name="MAIN_CLASS_NAME" value="database.DataBaseManagerTest" />
+      <option name="METHOD_NAME" value="testCreateConnectionForSQLException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataBaseMySQLQueriesTest.getViews" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="back" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="database.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="database" />
+      <option name="MAIN_CLASS_NAME" value="database.DataBaseMySQLQueriesTest" />
+      <option name="METHOD_NAME" value="getViews" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="back" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RunTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WriterXMLTest.testWriteXML" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="back" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xml_dom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="xml_dom" />
+      <option name="MAIN_CLASS_NAME" value="xml_dom.WriterXMLTest" />
+      <option name="METHOD_NAME" value="testWriteXML" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="back" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="runner.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.DataBaseMySQLQueriesTest.getViews" />
+      <item itemvalue="JUnit.RunTest" />
+      <item itemvalue="JUnit.DataBaseManagerTest" />
+      <item itemvalue="JUnit.DataBaseManagerTest.testCreateConnectionForSQLException" />
+      <item itemvalue="JUnit.WriterXMLTest.testWriteXML" />
+      <item itemvalue="Spring Boot.Application" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RunTest" />
+        <item itemvalue="JUnit.WriterXMLTest.testWriteXML" />
+        <item itemvalue="JUnit.DataBaseManagerTest.testCreateConnectionForSQLException" />
+        <item itemvalue="JUnit.DataBaseManagerTest" />
+        <item itemvalue="JUnit.DataBaseMySQLQueriesTest.getViews" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f935d8c-6167-4a14-ae44-86752203b9a1" name="Default Changelist" comment="" />
+      <created>1572602374727</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572602374727</updated>
+      <workItem from="1572602378363" duration="19107000" />
+      <workItem from="1572751932893" duration="3948000" />
+      <workItem from="1572756755336" duration="591000" />
+      <workItem from="1572810163501" duration="4518000" />
+      <workItem from="1572864304621" duration="1183000" />
+      <workItem from="1572890950626" duration="13552000" />
+      <workItem from="1572988604005" duration="7453000" />
+      <workItem from="1573072349194" duration="1186000" />
+      <workItem from="1573161726726" duration="4444000" />
+      <workItem from="1573248312969" duration="10131000" />
+      <workItem from="1573335049323" duration="13682000" />
+      <workItem from="1573591619818" duration="1193000" />
+      <workItem from="1573639507038" duration="960000" />
+      <workItem from="1573672586837" duration="8590000" />
+      <workItem from="1573765498890" duration="4289000" />
+      <workItem from="1574024406968" duration="2743000" />
+      <workItem from="1574112200712" duration="8470000" />
+      <workItem from="1574202395069" duration="7055000" />
+      <workItem from="1574282754353" duration="5749000" />
+      <workItem from="1574325742950" duration="4468000" />
+      <workItem from="1574355861747" duration="1226000" />
+      <workItem from="1574620978622" duration="3465000" />
+      <workItem from="1574705045117" duration="13952000" />
+      <workItem from="1574795325814" duration="21411000" />
+      <workItem from="1574879030670" duration="3672000" />
+      <workItem from="1574905026784" duration="2139000" />
+      <workItem from="1574940475223" duration="16078000" />
+      <workItem from="1574986289548" duration="9592000" />
+      <workItem from="1575113732678" duration="7500000" />
+      <workItem from="1575237279441" duration="24377000" />
+      <workItem from="1575317557462" duration="13725000" />
+      <workItem from="1575402671903" duration="14598000" />
+      <workItem from="1575533823610" duration="583000" />
+      <workItem from="1575552793704" duration="14838000" />
+      <workItem from="1575581221909" duration="36000" />
+      <workItem from="1575582508906" duration="5707000" />
+      <workItem from="1575833597023" duration="2037000" />
+      <workItem from="1575844520785" duration="12992000" />
+      <workItem from="1575929707463" duration="4379000" />
+      <workItem from="1576003380094" duration="547000" />
+      <workItem from="1576020445323" duration="9512000" />
+      <workItem from="1576345239159" duration="587000" />
+      <workItem from="1576416747228" duration="572000" />
+      <workItem from="1576426933112" duration="2211000" />
+      <workItem from="1576452178966" duration="3031000" />
+      <workItem from="1605920969430" duration="269000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/database/DataBaseMySQLQueriesTest.java</url>
+          <line>147</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/database/DataBaseMySQLQueriesTest.java</url>
+          <line>148</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/database/DataBaseMySQLQueriesTest.java</url>
+          <line>174</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/database/DataBaseMySQLQueriesTest.java</url>
+          <line>173</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/back$LoadingInformationTest_loadingView.ic" NAME="LoadingInformationTest.loadingView Coverage Results" MODIFIED="1574950320857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>loading.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$DataTreeTest.ic" NAME="DataTreeTest Coverage Results" MODIFIED="1574849702958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>models.tree.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$DataBaseMySQLQueriesTest_getTableRowsOfTable.ic" NAME="DataBaseMySQLQueriesTest.getTableRowsOfTable Coverage Results" MODIFIED="1575323553375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>database.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$xml_dom_in_back.ic" NAME="xml_dom in back Coverage Results" MODIFIED="1574993188979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>xml_dom.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$BaseControllerTest_saveXML.ic" NAME="BaseControllerTest.saveXML Coverage Results" MODIFIED="1575253215567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>controllers.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$ConverterTest_toJSON_TreeTest.ic" NAME="ConverterTest.toJSON_TreeTest Coverage Results" MODIFIED="1575255180253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>json_jackson.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$DataTreeTest_findBFS.ic" NAME="DataTreeTest.findBFS Coverage Results" MODIFIED="1574818801928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>models.tree.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$TreeNodeTest_setChildren.ic" NAME="TreeNodeTest.setChildren Coverage Results" MODIFIED="1574738824441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>models.tree.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$TreeNodeTest_addChild.ic" NAME="TreeNodeTest.addChild Coverage Results" MODIFIED="1574732398031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>models.tree.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$loading_in_back.ic" NAME="loading in back Coverage Results" MODIFIED="1574969501010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>loading.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$models_tree_in_back.ic" NAME="models.tree in back Coverage Results" MODIFIED="1574796137818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>models.tree.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$DataBaseMySQLQueriesTest_getTablesOfSchema.ic" NAME="DataBaseMySQLQueriesTest.getTablesOfSchema Coverage Results" MODIFIED="1575323449238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>database.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$LazyLoadingCommandTest_execute.ic" NAME="LazyLoadingCommandTest.execute Coverage Results" MODIFIED="1575283106482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>command.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$DataBaseMySQLQueriesTest_getTableDDL.ic" NAME="DataBaseMySQLQueriesTest.getTableDDL Coverage Results" MODIFIED="1575323357607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>database.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$DataBaseMySQLQueriesTest_getTables.ic" NAME="DataBaseMySQLQueriesTest.getTables Coverage Results" MODIFIED="1575323474006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>database.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$ConverterTest_toJSON_NodeTest.ic" NAME="ConverterTest.toJSON_NodeTest Coverage Results" MODIFIED="1575255437984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>json_jackson.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$DataBaseManagerTest_privateDataBaseManagerTest.ic" NAME="DataBaseManagerTest.privateDataBaseManagerTest Coverage Results" MODIFIED="1575319328235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>database.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$TreeNodeTest_isRoot.ic" NAME="TreeNodeTest.isRoot Coverage Results" MODIFIED="1574739493826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>models.tree.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$DataBaseMySQLQueriesTest_getProductName.ic" NAME="DataBaseMySQLQueriesTest.getProductName Coverage Results" MODIFIED="1575323105321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>database.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$ParameterForSaveXMLTest.ic" NAME="ParameterForSaveXMLTest Coverage Results" MODIFIED="1575119345949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>database.parametrs.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$DataBaseManagerTest_privateDataBaseManagerWithParametersTest.ic" NAME="DataBaseManagerTest.privateDataBaseManagerWithParametersTest Coverage Results" MODIFIED="1575319583309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>database.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$DataBaseMySQLQueriesTest_getSchemas.ic" NAME="DataBaseMySQLQueriesTest.getSchemas Coverage Results" MODIFIED="1575323226864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>database.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$DataBaseMySQLQueriesTest_getViews.ic" NAME="DataBaseMySQLQueriesTest.getViews Coverage Results" MODIFIED="1575323931951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>database.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$LoadingTreeWithDateBaseTest_FindNodeForID.ic" NAME="LoadingTreeWithDateBaseTest.FindNodeForID Coverage Results" MODIFIED="1574968439702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>loading.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$TreeNodeTest_setData.ic" NAME="TreeNodeTest.setData Coverage Results" MODIFIED="1574739344773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>models.tree.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$DataBaseMySQLQueriesTest_getProcedureDDL.ic" NAME="DataBaseMySQLQueriesTest.getProcedureDDL Coverage Results" MODIFIED="1575322993495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>database.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$ControlTestTest.ic" NAME="ControlTestTest Coverage Results" MODIFIED="1574969514169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>loading.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$BaseControllerTest_parameters.ic" NAME="BaseControllerTest.parameters Coverage Results" MODIFIED="1575249992754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>controllers.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$DataBaseMySQLQueriesTest_getTableAvgRowLengthOfTable.ic" NAME="DataBaseMySQLQueriesTest.getTableAvgRowLengthOfTable Coverage Results" MODIFIED="1575323580930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>database.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$DataBaseMySQLQueriesTest_getFunctionDDL.ic" NAME="DataBaseMySQLQueriesTest.getFunctionDDL Coverage Results" MODIFIED="1575322795540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>database.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$DataBaseMySQLQueriesTest_getVersionOfTable.ic" NAME="DataBaseMySQLQueriesTest.getVersionOfTable Coverage Results" MODIFIED="1575323611548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>database.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$ElementParserTest_privateElementParserConstructorTest.ic" NAME="ElementParserTest.privateElementParserConstructorTest Coverage Results" MODIFIED="1574997018847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>xml_dom.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$InformationTest.ic" NAME="InformationTest Coverage Results" MODIFIED="1574981831621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>models.data.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$DataBaseMySQLQueriesTest_privateDataBaseMySQLQueriesTest.ic" NAME="DataBaseMySQLQueriesTest.privateDataBaseMySQLQueriesTest Coverage Results" MODIFIED="1575321669723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>database.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$DataBaseManagerTest_getConnection.ic" NAME="DataBaseManagerTest.getConnection Coverage Results" MODIFIED="1575320011571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>database.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$BaseControllerTest_loadXML.ic" NAME="BaseControllerTest.loadXML Coverage Results" MODIFIED="1575254201423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>controllers.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$DataBaseManagerTest_instanceDataBaseManager.ic" NAME="DataBaseManagerTest.instanceDataBaseManager Coverage Results" MODIFIED="1575319764032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>database.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$DataBaseMySQLQueriesTest_getFunctionsOfSchema.ic" NAME="DataBaseMySQLQueriesTest.getFunctionsOfSchema Coverage Results" MODIFIED="1575322887729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>database.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$TreeNodeTest_getParent.ic" NAME="TreeNodeTest.getParent Coverage Results" MODIFIED="1574737169228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>models.tree.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$DataBaseMySQLQueriesTest_getTypeOfColumn.ic" NAME="DataBaseMySQLQueriesTest.getTypeOfColumn Coverage Results" MODIFIED="1575322283265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>database.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$LoadingTreeWithDateBaseTest.ic" NAME="LoadingTreeWithDateBaseTest Coverage Results" MODIFIED="1574969200818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>loading.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$ApplicationTest_mainTest.ic" NAME="ApplicationTest.mainTest Coverage Results" MODIFIED="1575256419299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>runner.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$DataBaseMySQLQueriesTest_getTriggers.ic" NAME="DataBaseMySQLQueriesTest.getTriggers Coverage Results" MODIFIED="1575323712478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>database.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$DataTreeTest_findDFS.ic" NAME="DataTreeTest.findDFS Coverage Results" MODIFIED="1574849405426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>models.tree.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$DataBaseMySQLQueriesTest_getViewDDL.ic" NAME="DataBaseMySQLQueriesTest.getViewDDL Coverage Results" MODIFIED="1575323767408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>database.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$ElementParserTest.ic" NAME="ElementParserTest Coverage Results" MODIFIED="1574996626327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>xml_dom.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$LoadingInformationTest.ic" NAME="LoadingInformationTest Coverage Results" MODIFIED="1574967880738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>loading.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$DataBaseMySQLQueriesTest_getProceduresOfSchema.ic" NAME="DataBaseMySQLQueriesTest.getProceduresOfSchema Coverage Results" MODIFIED="1575323044045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>database.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$DataBaseMySQLQueriesTest_getCreateTimeOfTable.ic" NAME="DataBaseMySQLQueriesTest.getCreateTimeOfTable Coverage Results" MODIFIED="1575323517451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>database.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$DataBaseMySQLQueriesTest_getNamesOfColumns.ic" NAME="DataBaseMySQLQueriesTest.getNamesOfColumns Coverage Results" MODIFIED="1575322637725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>database.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$LoadingTreeWithDateBaseTest_loadAllTree.ic" NAME="LoadingTreeWithDateBaseTest.loadAllTree Coverage Results" MODIFIED="1574968966020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>loading.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$DataBaseMySQLQueriesTest_getTriggerDDL.ic" NAME="DataBaseMySQLQueriesTest.getTriggerDDL Coverage Results" MODIFIED="1575323670350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>database.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$ReaderXMLTest_readXMLDefaultTest.ic" NAME="ReaderXMLTest.readXMLDefaultTest Coverage Results" MODIFIED="1575115481978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>xml_dom.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$CreateConnectDataBaseCommandTest_execute.ic" NAME="CreateConnectDataBaseCommandTest.execute Coverage Results" MODIFIED="1575284362261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>command.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$BaseControllerTest_load.ic" NAME="BaseControllerTest.load Coverage Results" MODIFIED="1575250712317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>controllers.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$CloseConnectDataBaseCommandTest_execute.ic" NAME="CloseConnectDataBaseCommandTest.execute Coverage Results" MODIFIED="1575284759874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>command.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$DataBaseManagerTest.ic" NAME="DataBaseManagerTest Coverage Results" MODIFIED="1575331130574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>database.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$models_in_back.ic" NAME="models in back Coverage Results" MODIFIED="1574849762727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>models.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$TreeNodeTest.ic" NAME="TreeNodeTest Coverage Results" MODIFIED="1574849569167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>models.tree.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$TreeNodeTest_isLeaf.ic" NAME="TreeNodeTest.isLeaf Coverage Results" MODIFIED="1574739558369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>models.tree.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$DataBaseMySQLQueriesTest_getAllSchemas.ic" NAME="DataBaseMySQLQueriesTest.getAllSchemas Coverage Results" MODIFIED="1575323260193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>database.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$ApplicationTest.ic" NAME="ApplicationTest Coverage Results" MODIFIED="1575238786132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>runner.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$ParametersWithNodeTest.ic" NAME="ParametersWithNodeTest Coverage Results" MODIFIED="1575286361435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>database.parametrs.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$TreeNodeTest_removeChildrenNode.ic" NAME="TreeNodeTest.removeChildrenNode Coverage Results" MODIFIED="1574738262394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>models.tree.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$TagNodeNamesTest.ic" NAME="TagNodeNamesTest Coverage Results" MODIFIED="1574997340199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>xml_dom.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$DataBaseMySQLQueriesTest_getColumnsOfTable.ic" NAME="DataBaseMySQLQueriesTest.getColumnsOfTable Coverage Results" MODIFIED="1575322567533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>database.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$TreeNodeTest_removeChildNode.ic" NAME="TreeNodeTest.removeChildNode Coverage Results" MODIFIED="1574738621769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>models.tree.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$RunTest.ic" NAME="RunTest Coverage Results" MODIFIED="1575455339055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/back$ParametersWithNodeTest_getTreeNode.ic" NAME="ParametersWithNodeTest.getTreeNode Coverage Results" MODIFIED="1575286005593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>database.parametrs.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$DataBaseMySQLQueriesTest_getTypeOfColumnOfTable.ic" NAME="DataBaseMySQLQueriesTest.getTypeOfColumnOfTable Coverage Results" MODIFIED="1575322151717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>database.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$IdentifierLongTest.ic" NAME="IdentifierLongTest Coverage Results" MODIFIED="1574981762056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>identifier.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$ApplicationTest_main.ic" NAME="ApplicationTest.main Coverage Results" MODIFIED="1575241064786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>runner.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$DataBaseMySQLQueriesTest_getAllSchemasV2.ic" NAME="DataBaseMySQLQueriesTest.getAllSchemasV2 Coverage Results" MODIFIED="1575323295985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>database.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/back$LoadingTreeWithDateBaseTest_findNodeRoot.ic" NAME="LoadingTreeWithDateBaseTest.findNodeRoot Coverage Results" MODIFIED="1574967839660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>loading.*</FILTER>
+    </SUITE>
+  </component>
+</project>

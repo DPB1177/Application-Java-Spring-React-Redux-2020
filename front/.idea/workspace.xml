@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b4b2218-531f-47dd-bc5a-5ff30c85e5ce" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1T11lUxmUTqgKGsSDdDGseJ8M5H" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JAVA\DB_BEST_TASK_5347\dmytro-bielozorov-student-project\front\src\components\table" />
+      <recent name="D:\JAVA\DB_BEST_TASK_5347\dmytro-bielozorov-student-project\front\src\components\modes" />
+      <recent name="D:\JAVA\DB_BEST_TASK_5347\dmytro-bielozorov-student-project\front\src\components\nodes" />
+      <recent name="D:\JAVA\DB_BEST_TASK_5347\dmytro-bielozorov-student-project\front\src\components\auth" />
+      <recent name="D:\JAVA\DB_BEST_TASK_5201\dmytro-bielozorov-student-project\front\src\components" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JAVA\DB_BEST_TASK_5201\dmytro-bielozorov-student-project\front\src\store\table" />
+      <recent name="D:\JAVA\DB_BEST_TASK_5201\dmytro-bielozorov-student-project\front\src\store" />
+      <recent name="D:\JAVA\DB_BEST_TASK_5201\dmytro-bielozorov-student-project\front\src\components" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b4b2218-531f-47dd-bc5a-5ff30c85e5ce" name="Default Changelist" comment="" />
+      <created>1572612938667</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572612938667</updated>
+      <workItem from="1572612940392" duration="22134000" />
+      <workItem from="1572752068254" duration="2041000" />
+      <workItem from="1572810088406" duration="19166000" />
+      <workItem from="1572864170523" duration="4622000" />
+      <workItem from="1572890855837" duration="13939000" />
+      <workItem from="1572988549301" duration="6351000" />
+      <workItem from="1573072270956" duration="12677000" />
+      <workItem from="1573161665407" duration="20291000" />
+      <workItem from="1573248210844" duration="10113000" />
+      <workItem from="1573334970919" duration="7309000" />
+      <workItem from="1573591515484" duration="5682000" />
+      <workItem from="1573639188814" duration="4450000" />
+      <workItem from="1573672514093" duration="18250000" />
+      <workItem from="1573765412437" duration="15711000" />
+      <workItem from="1574024296670" duration="11552000" />
+      <workItem from="1574112109990" duration="16969000" />
+      <workItem from="1574202323748" duration="18620000" />
+      <workItem from="1574282635618" duration="4652000" />
+      <workItem from="1574325663622" duration="593000" />
+      <workItem from="1574355798378" duration="5497000" />
+      <workItem from="1574454047999" duration="506000" />
+      <workItem from="1574620893360" duration="15331000" />
+      <workItem from="1574704890078" duration="3180000" />
+      <workItem from="1574795143735" duration="582000" />
+      <workItem from="1574878950568" duration="595000" />
+      <workItem from="1575452657116" duration="4264000" />
+      <workItem from="1575533718879" duration="4417000" />
+      <workItem from="1575552896537" duration="10080000" />
+      <workItem from="1575581215431" duration="39000" />
+      <workItem from="1575582536612" duration="6162000" />
+      <workItem from="1575833488322" duration="5763000" />
+      <workItem from="1575844372484" duration="13313000" />
+      <workItem from="1576059270732" duration="896000" />
+      <workItem from="1576060964513" duration="354000" />
+      <workItem from="1576061869525" duration="2001000" />
+      <workItem from="1576068746902" duration="339000" />
+      <workItem from="1576069138431" duration="4416000" />
+      <workItem from="1576345104565" duration="3523000" />
+      <workItem from="1576416546602" duration="593000" />
+      <workItem from="1576426972061" duration="583000" />
+      <workItem from="1576452271619" duration="103000" />
+      <workItem from="1576452528144" duration="2008000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

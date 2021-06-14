@@ -42,9 +42,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProblemsViewState">
-    <option name="selectedIndex" value="1" />
-  </component>
   <component name="ProjectId" id="1T0gM1YiULylhEvWvMraKC583Og" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -58,6 +55,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
@@ -69,6 +67,14 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JAVA\DB_BEST_TASK_5201\dmytro-bielozorov-student-project\back\src\main\java\database" />
+      <recent name="D:\JAVA\DB_BEST_TASK_5201\dmytro-bielozorov-student-project\back\src\main\java" />
+      <recent name="D:\JAVA\DB_BEST_TASK_5201\dmytro-bielozorov-student-project\back\src\main\java\models\tree" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="database" />
       <recent name="command" />
@@ -76,20 +82,12 @@
       <recent name="database.parametrs" />
       <recent name="json_jackson" />
     </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="xml_dom" />
       <recent name="command" />
       <recent name="identifier" />
       <recent name="jason_jackson" />
       <recent name="constants" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\JAVA\DB_BEST_TASK_5201\dmytro-bielozorov-student-project\back\src\main\java\database" />
-      <recent name="D:\JAVA\DB_BEST_TASK_5201\dmytro-bielozorov-student-project\back\src\main\java" />
-      <recent name="D:\JAVA\DB_BEST_TASK_5201\dmytro-bielozorov-student-project\back\src\main\java\models\tree" />
     </key>
   </component>
   <component name="RunManager" selected="Spring Boot.Application">
@@ -258,12 +256,23 @@
       <workItem from="1576426933112" duration="2211000" />
       <workItem from="1576452178966" duration="3031000" />
       <workItem from="1605920969430" duration="269000" />
-      <workItem from="1623703166323" duration="284000" />
+      <workItem from="1623703166323" duration="753000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
